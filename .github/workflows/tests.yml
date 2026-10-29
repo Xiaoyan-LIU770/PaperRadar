@@ -1,0 +1,22 @@
+name: Offline tests
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ['3.11', '3.12', '3.13']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - run: |
+          python -m venv .venv
+          source scripts/env.sh
+          python -B scripts/check_install.py
+          python -B -m unittest discover -s tests -v
+          python -B tests/offline_demo.py
+        shell: bash

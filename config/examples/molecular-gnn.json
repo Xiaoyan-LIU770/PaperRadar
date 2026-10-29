@@ -1,0 +1,22 @@
+{
+  "topic_zh": "示例：图神经网络的分子性质预测",
+  "date_from": "2024-01-01",
+  "max_per_source": 50,
+  "arxiv_query": "all:\"graph neural network\" AND all:molecular",
+  "openalex_search": "graph neural network molecular property prediction",
+  "screening_version": "generic",
+  "overlap_days": 35,
+  "inclusion_criteria_zh": [
+    "图神经网络用于分子性质预测",
+    "需阅读摘要确认研究对象和任务"
+  ],
+  "exclusion_criteria_zh": [
+    "仅提及关键词而未研究该任务"
+  ],
+  "openalex_groups": [
+    {
+      "id": "molecular",
+      "query": "\"graph neural network\" AND molecular"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+[
+  {
+    "title": "TEST DATA a: Blue perovskite light-emitting diodes",
+    "authors": [
+      "Test Author"
+    ],
+    "publication_date": "2026-10-02",
+    "abstract": "TEST DATA ONLY. Blue perovskite LEDs show operational stability in a synthetic example.",
+    "abstract_source": "openalex",
+    "doi": "10.0000/test-data-a",
+    "arxiv_id": null,
+    "identifiers": {
+      "doi": [
+        "10.0000/test-data-a"
+      ],
+      "arxiv": [],
+      "openalex": [
+        "https://openalex.org/W000000"
+      ]
+    },
+    "sources": [
+      "openalex"
+    ],
+    "links": [],
+    "source_records": [
+      {
+        "source": "openalex",
+        "source_id": "https://openalex.org/W000000",
+        "raw_file": "tests/fixtures/records.json",
+        "pointer": "/0",
+        "title": "TEST DATA a: Blue perovskite light-emitting diodes",
+        "authors": [
+          "Test Author"
+        ],
+        "publication_date": "2026-10-02",
+        "abstract": "TEST DATA ONLY. Blue perovskite LEDs show operational stability in a synthetic example.",
+        "version": null
+      }
+    ],
+    "warnings": [],
+    "duplicate_review": [],
+    "first_seen": "2026-10-30T00:19:56+08:00",
+    "last_seen": "2026-10-30T00:19:56+08:00",
+    "run_ids": [],
+    "test_data": true
+  },
+  {
+    "title": "TEST DATA b: Blue perovskite light-emitting diodes",
+    "authors": [
+      "Test Author"
+    ],
+    "publication_date": "2026-10-02",
+    "abstract": "TEST DATA ONLY. Blue perovskite LEDs show operational stability in a synthetic example.",
+    "abstract_source": "openalex",
+    "doi": "10.0000/test-data-b",
+    "arxiv_id": null,
+    "identifiers": {
+      "doi": [
+        "10.0000/test-data-b"
+      ],
+      "arxiv": [],
+      "openalex": [
+        "https://openalex.org/W000001"
+      ]
+    },
+    "sources": [
+      "openalex"
+    ],
+    "links": [],
+    "source_records": [
+      {
+        "source": "openalex",
+        "source_id": "https://openalex.org/W000001",
+        "raw_file": "tests/fixtures/records.json",
+        "pointer": "/1",
+        "title": "TEST DATA b: Blue perovskite light-emitting diodes",
+        "authors": [
+          "Test Author"
+        ],
+        "publication_date": "2026-10-02",
+        "abstract": "TEST DATA ONLY. Blue perovskite LEDs show operational stability in a synthetic example.",
+        "version": null
+      }
+    ],
+    "warnings": [],
+    "duplicate_review": [],
+    "first_seen": "2026-10-30T00:19:56+08:00",
+    "last_seen": "2026-10-30T00:19:56+08:00",
+    "run_ids": [],
+    "test_data": true
+  },
+  {
+    "title": "TEST DATA arxiv: Blue perovskite light-emitting diodes",
+    "authors": [
+      "Test Author"
+    ],
+    "publication_date": "2026-10-02",
+    "abstract": "TEST DATA ONLY. Blue perovskite LEDs show operational stability in a synthetic example.",
+    "abstract_source": "arxiv",
+    "doi": null,
+    "arxiv_id": "2301.00001",
+    "identifiers": {
+      "doi": [],
+      "arxiv": [
+        "2301.00001"
+      ],
+      "openalex": []
+    },
+    "sources": [
+      "arxiv"
+    ],
+    "links": [],
+    "source_records": [
+      {
+        "source": "arxiv",
+        "source_id": "2301.00001v1",
+        "raw_file": "tests/fixtures/records.json",
+        "pointer": "/2",
+        "title": "TEST DATA arxiv: Blue perovskite light-emitting diodes",
+        "authors": [
+          "Test Author"
+        ],
+        "publication_date": "2026-10-02",
+        "abstract": "TEST DATA ONLY. Blue perovskite LEDs show operational stability in a synthetic example.",
+        "version": 1
+      }
+    ],
+    "warnings": [],
+    "duplicate_review": [],
+    "first_seen": "2026-10-30T00:19:56+08:00",
+    "last_seen": "2026-10-30T00:19:56+08:00",
+    "run_ids": [],
+    "test_data": true
+  },
+  {
+    "title": "TEST DATA same-title blue perovskite LEDs",
+    "authors": [
+      "Test Author"
+    ],
+    "publication_date": "2026-10-02",
+    "abstract": "TEST DATA ONLY. Blue perovskite LEDs show operational stability in a synthetic example.",
+    "abstract_source": "openalex",
+    "doi": "10.0000/test-data-same1",
+    "arxiv_id": null,
+    "identifiers": {
+      "doi": [
+        "10.0000/test-data-same1"
+      ],
+      "arxiv": [],
+      "openalex": [
+        "https://openalex.org/W000003"
+      ]
+    },
+    "sources": [
+      "openalex"
+    ],
+    "links": [],
+    "source_records": [
+      {
+        "source": "openalex",
+        "source_id": "https://openalex.org/W000003",
+        "raw_file": "tests/fixtures/records.json",
+        "pointer": "/3",
+        "title": "TEST DATA same-title blue perovskite LEDs",
+        "authors": [
+          "Test Author"
+        ],
+        "publication_date": "2026-10-02",
+        "abstract": "TEST DATA ONLY. Blue perovskite LEDs show operational stability in a synthetic example.",
+        "version": null
+      }
+    ],
+    "warnings": [],
+    "duplicate_review": [],
+    "first_seen": "2026-10-30T00:19:56+08:00",
+    "last_seen": "2026-10-30T00:19:56+08:00",
+    "run_ids": [],
+    "test_data": true
+  },
+  {
+    "title": "TEST DATA same-title blue perovskite LEDs",
+    "authors": [
+      "Test Author"
+    ],
+    "publication_date": "2026-10-02",
+    "abstract": "TEST DATA ONLY. Blue perovskite LEDs show operational stability in a synthetic example.",
+    "abstract_source": "openalex",
+    "doi": "10.0000/test-data-same2",
+    "arxiv_id": null,
+    "identifiers": {
+      "doi": [
+        "10.0000/test-data-same2"
+      ],
+      "arxiv": [],
+      "openalex": [
+        "https://openalex.org/W000004"
+      ]
+    },
+    "sources": [
+      "openalex"
+    ],
+    "links": [],
+    "source_records": [
+      {
+        "source": "openalex",
+        "source_id": "https://openalex.org/W000004",
+        "raw_file": "tests/fixtures/records.json",
+        "pointer": "/4",
+        "title": "TEST DATA same-title blue perovskite LEDs",
+        "authors": [
+          "Test Author"
+        ],
+        "publication_date": "2026-10-02",
+        "abstract": "TEST DATA ONLY. Blue perovskite LEDs show operational stability in a synthetic example.",
+        "version": null
+      }
+    ],
+    "warnings": [],
+    "duplicate_review": [],
+    "first_seen": "2026-10-30T00:19:56+08:00",
+    "last_seen": "2026-10-30T00:19:56+08:00",
+    "run_ids": [],
+    "test_data": true
+  }
+]

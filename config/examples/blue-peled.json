@@ -1,0 +1,17 @@
+{
+  "topic_zh": "示例：蓝光钙钛矿LED稳定性",
+  "date_from": "2023-01-01",
+  "date_to": "2026-10-14",
+  "max_per_source": 50,
+  "arxiv_query": "all:perovskite AND all:blue AND (all:LED OR all:PeLED OR all:electroluminescence)",
+  "openalex_search": "blue perovskite light emitting diodes",
+  "screening_version": "blue-peled-v1",
+  "overlap_days": 35,
+  "inclusion_criteria_zh": [
+    "蓝光钙钛矿电致发光器件",
+    "标题或摘要含稳定性证据"
+  ],
+  "exclusion_criteria_zh": [
+    "仅光致发光不能作为器件工作寿命证据"
+  ]
+}
